@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### don't ignore ./websocket-client  ###
-!/websocket-client/
+!./websocket-client/**/*
